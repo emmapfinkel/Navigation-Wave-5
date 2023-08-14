@@ -11,6 +11,7 @@
 		BDA62CA72A86791500CA5159 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDA62CA62A86791500CA5159 /* ContentView.swift */; };
 		BDA62CA92A86791600CA5159 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDA62CA82A86791600CA5159 /* Assets.xcassets */; };
 		BDA62CAC2A86791600CA5159 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDA62CAB2A86791600CA5159 /* Preview Assets.xcassets */; };
+		BDA62CB32A867D0D00CA5159 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDA62CB22A867D0D00CA5159 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		BDA62CA62A86791500CA5159 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BDA62CA82A86791600CA5159 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDA62CAB2A86791600CA5159 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BDA62CB22A867D0D00CA5159 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				BDA62CA42A86791500CA5159 /* Navigation_Wave_5App.swift */,
 				BDA62CA62A86791500CA5159 /* ContentView.swift */,
+				BDA62CB22A867D0D00CA5159 /* SecondView.swift */,
 				BDA62CA82A86791600CA5159 /* Assets.xcassets */,
 				BDA62CAA2A86791600CA5159 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDA62CB32A867D0D00CA5159 /* SecondView.swift in Sources */,
 				BDA62CA72A86791500CA5159 /* ContentView.swift in Sources */,
 				BDA62CA52A86791500CA5159 /* Navigation_Wave_5App.swift in Sources */,
 			);
